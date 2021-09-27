@@ -1,0 +1,29 @@
+.Card {
+  border: 1px solid #1f7a8c;
+  background-color: #bfdbf7;
+  border-radius: 8px;
+  padding: 5px;
+}
+
+.Card button {
+  background-color: #1f7a8c;
+  padding: 5px 10px;
+  border-radius: 10px;
+  border: 1px solid #bfdbf7;
+  cursor: pointer;
+  font-weight: bold;
+  color: #e1e5f2;
+  margin: 0 5px;
+}
+
+button:hover {
+  filter: brightness(0.9);
+}
+
+input {
+  border-radius: 8px;
+  border: 1px solid #bfdbf7;
+  height: 20px;
+  padding: 2px;
+  margin: 1px;
+}
